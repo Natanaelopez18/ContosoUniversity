@@ -1,0 +1,156 @@
+c:\users\isi12\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\ApplicationInsights.config
+c:\users\isi12\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\roslyn\csc.exe
+c:\users\isi12\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\roslyn\csc.exe.config
+c:\users\isi12\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\roslyn\csc.rsp
+c:\users\isi12\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\roslyn\csi.exe
+c:\users\isi12\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\roslyn\csi.rsp
+c:\users\isi12\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\isi12\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\isi12\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\isi12\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\isi12\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\isi12\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\isi12\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\isi12\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\isi12\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\isi12\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\isi12\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\roslyn\System.AppContext.dll
+c:\users\isi12\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Collections.Immutable.dll
+c:\users\isi12\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\isi12\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\roslyn\System.IO.FileSystem.dll
+c:\users\isi12\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\isi12\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\isi12\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\roslyn\vbc.exe
+c:\users\isi12\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\roslyn\vbc.exe.config
+c:\users\isi12\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\roslyn\vbc.rsp
+c:\users\isi12\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\roslyn\VBCSCompiler.exe
+c:\users\isi12\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\roslyn\VBCSCompiler.exe.config
+c:\users\isi12\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\ContosoUniversity.dll.config
+c:\users\isi12\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\ContosoUniversity.dll
+c:\users\isi12\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\ContosoUniversity.pdb
+c:\users\isi12\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\Antlr3.Runtime.dll
+c:\users\isi12\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\EntityFramework.dll
+c:\users\isi12\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.dll
+c:\users\isi12\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\isi12\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\isi12\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\isi12\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\isi12\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\Microsoft.AI.Web.dll
+c:\users\isi12\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\Microsoft.AI.WindowsServer.dll
+c:\users\isi12\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\Microsoft.ApplicationInsights.dll
+c:\users\isi12\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\isi12\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\Microsoft.Web.Infrastructure.dll
+c:\users\isi12\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\Newtonsoft.Json.dll
+c:\users\isi12\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\System.Web.Helpers.dll
+c:\users\isi12\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\System.Web.Mvc.dll
+c:\users\isi12\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\System.Web.Optimization.dll
+c:\users\isi12\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\System.Web.Razor.dll
+c:\users\isi12\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Deployment.dll
+c:\users\isi12\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.dll
+c:\users\isi12\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Razor.dll
+c:\users\isi12\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\WebGrease.dll
+c:\users\isi12\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\EntityFramework.xml
+c:\users\isi12\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.xml
+c:\users\isi12\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\isi12\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\System.Web.Helpers.xml
+c:\users\isi12\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\System.Web.Mvc.xml
+c:\users\isi12\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\System.Web.Optimization.xml
+c:\users\isi12\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\System.Web.Razor.xml
+c:\users\isi12\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.xml
+c:\users\isi12\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Deployment.xml
+c:\users\isi12\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Razor.xml
+c:\users\isi12\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\Antlr3.Runtime.pdb
+c:\users\isi12\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\Newtonsoft.Json.xml
+c:\users\isi12\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\Microsoft.ApplicationInsights.xml
+c:\users\isi12\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\isi12\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\isi12\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\Microsoft.AI.WindowsServer.xml
+c:\users\isi12\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\Microsoft.AI.Web.xml
+c:\users\isi12\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\es\System.Web.Helpers.resources.dll
+c:\users\isi12\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\es\System.Web.Mvc.resources.dll
+c:\users\isi12\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\es\System.Web.Optimization.resources.dll
+c:\users\isi12\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\es\System.Web.Razor.resources.dll
+c:\users\isi12\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\es\System.Web.WebPages.resources.dll
+c:\users\isi12\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\es\System.Web.WebPages.Deployment.resources.dll
+c:\users\isi12\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\es\System.Web.WebPages.Razor.resources.dll
+c:\users\isi12\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csprojResolveAssemblyReference.cache
+c:\users\isi12\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.dll
+c:\users\isi12\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.pdb
+C:\Users\isi11\Documents\ContosoUniversity\ContosoUniversity\bin\ApplicationInsights.config
+C:\Users\isi11\Documents\ContosoUniversity\ContosoUniversity\bin\roslyn\csc.exe
+C:\Users\isi11\Documents\ContosoUniversity\ContosoUniversity\bin\roslyn\csc.exe.config
+C:\Users\isi11\Documents\ContosoUniversity\ContosoUniversity\bin\roslyn\csc.rsp
+C:\Users\isi11\Documents\ContosoUniversity\ContosoUniversity\bin\roslyn\csi.exe
+C:\Users\isi11\Documents\ContosoUniversity\ContosoUniversity\bin\roslyn\csi.rsp
+C:\Users\isi11\Documents\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\isi11\Documents\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\isi11\Documents\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\isi11\Documents\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\isi11\Documents\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\isi11\Documents\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\isi11\Documents\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\isi11\Documents\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\isi11\Documents\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\isi11\Documents\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\isi11\Documents\ContosoUniversity\ContosoUniversity\bin\roslyn\System.AppContext.dll
+C:\Users\isi11\Documents\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\isi11\Documents\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\isi11\Documents\ContosoUniversity\ContosoUniversity\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\isi11\Documents\ContosoUniversity\ContosoUniversity\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\isi11\Documents\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\isi11\Documents\ContosoUniversity\ContosoUniversity\bin\roslyn\vbc.exe
+C:\Users\isi11\Documents\ContosoUniversity\ContosoUniversity\bin\roslyn\vbc.exe.config
+C:\Users\isi11\Documents\ContosoUniversity\ContosoUniversity\bin\roslyn\vbc.rsp
+C:\Users\isi11\Documents\ContosoUniversity\ContosoUniversity\bin\roslyn\VBCSCompiler.exe
+C:\Users\isi11\Documents\ContosoUniversity\ContosoUniversity\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\isi11\Documents\ContosoUniversity\ContosoUniversity\bin\ContosoUniversity.dll.config
+C:\Users\isi11\Documents\ContosoUniversity\ContosoUniversity\bin\ContosoUniversity.dll
+C:\Users\isi11\Documents\ContosoUniversity\ContosoUniversity\bin\ContosoUniversity.pdb
+C:\Users\isi11\Documents\ContosoUniversity\ContosoUniversity\bin\Antlr3.Runtime.dll
+C:\Users\isi11\Documents\ContosoUniversity\ContosoUniversity\bin\EntityFramework.dll
+C:\Users\isi11\Documents\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.dll
+C:\Users\isi11\Documents\ContosoUniversity\ContosoUniversity\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\isi11\Documents\ContosoUniversity\ContosoUniversity\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\isi11\Documents\ContosoUniversity\ContosoUniversity\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\isi11\Documents\ContosoUniversity\ContosoUniversity\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\isi11\Documents\ContosoUniversity\ContosoUniversity\bin\Microsoft.AI.Web.dll
+C:\Users\isi11\Documents\ContosoUniversity\ContosoUniversity\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\isi11\Documents\ContosoUniversity\ContosoUniversity\bin\Microsoft.ApplicationInsights.dll
+C:\Users\isi11\Documents\ContosoUniversity\ContosoUniversity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\isi11\Documents\ContosoUniversity\ContosoUniversity\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\isi11\Documents\ContosoUniversity\ContosoUniversity\bin\Newtonsoft.Json.dll
+C:\Users\isi11\Documents\ContosoUniversity\ContosoUniversity\bin\System.Web.Helpers.dll
+C:\Users\isi11\Documents\ContosoUniversity\ContosoUniversity\bin\System.Web.Mvc.dll
+C:\Users\isi11\Documents\ContosoUniversity\ContosoUniversity\bin\System.Web.Optimization.dll
+C:\Users\isi11\Documents\ContosoUniversity\ContosoUniversity\bin\System.Web.Razor.dll
+C:\Users\isi11\Documents\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Deployment.dll
+C:\Users\isi11\Documents\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.dll
+C:\Users\isi11\Documents\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Razor.dll
+C:\Users\isi11\Documents\ContosoUniversity\ContosoUniversity\bin\WebGrease.dll
+C:\Users\isi11\Documents\ContosoUniversity\ContosoUniversity\bin\EntityFramework.xml
+C:\Users\isi11\Documents\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.xml
+C:\Users\isi11\Documents\ContosoUniversity\ContosoUniversity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\isi11\Documents\ContosoUniversity\ContosoUniversity\bin\System.Web.Helpers.xml
+C:\Users\isi11\Documents\ContosoUniversity\ContosoUniversity\bin\System.Web.Mvc.xml
+C:\Users\isi11\Documents\ContosoUniversity\ContosoUniversity\bin\System.Web.Optimization.xml
+C:\Users\isi11\Documents\ContosoUniversity\ContosoUniversity\bin\System.Web.Razor.xml
+C:\Users\isi11\Documents\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.xml
+C:\Users\isi11\Documents\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Deployment.xml
+C:\Users\isi11\Documents\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Razor.xml
+C:\Users\isi11\Documents\ContosoUniversity\ContosoUniversity\bin\Antlr3.Runtime.pdb
+C:\Users\isi11\Documents\ContosoUniversity\ContosoUniversity\bin\Newtonsoft.Json.xml
+C:\Users\isi11\Documents\ContosoUniversity\ContosoUniversity\bin\Microsoft.ApplicationInsights.xml
+C:\Users\isi11\Documents\ContosoUniversity\ContosoUniversity\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\isi11\Documents\ContosoUniversity\ContosoUniversity\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\isi11\Documents\ContosoUniversity\ContosoUniversity\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\isi11\Documents\ContosoUniversity\ContosoUniversity\bin\Microsoft.AI.Web.xml
+C:\Users\isi11\Documents\ContosoUniversity\ContosoUniversity\bin\es\System.Web.Helpers.resources.dll
+C:\Users\isi11\Documents\ContosoUniversity\ContosoUniversity\bin\es\System.Web.Mvc.resources.dll
+C:\Users\isi11\Documents\ContosoUniversity\ContosoUniversity\bin\es\System.Web.Optimization.resources.dll
+C:\Users\isi11\Documents\ContosoUniversity\ContosoUniversity\bin\es\System.Web.Razor.resources.dll
+C:\Users\isi11\Documents\ContosoUniversity\ContosoUniversity\bin\es\System.Web.WebPages.resources.dll
+C:\Users\isi11\Documents\ContosoUniversity\ContosoUniversity\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\isi11\Documents\ContosoUniversity\ContosoUniversity\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\isi11\Documents\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csprojResolveAssemblyReference.cache
+C:\Users\isi11\Documents\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.dll
+C:\Users\isi11\Documents\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.pdb
